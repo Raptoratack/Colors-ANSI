@@ -1,0 +1,22 @@
+lista de las secuencias de escape ANSI
+
+Negro: \033[0;30m
+Rojo: \033[0;31m
+Verde: \033[0;32m
+Amarillo: \033[0;33m
+Azul: \033[0;34m
+Magenta: \033[0;35m
+Cian: \033[0;36m
+Blanco: \033[0;37m
+Gris claro: \033[0;90m
+Rojo claro: \033[0;91m
+Verde claro: \033[0;92m
+Amarillo claro: \033[0;93m
+Azul claro: \033[0;94m
+Magenta claro: \033[0;95m
+Cian claro: \033[0;96m
+Blanco claro: \033[0;97m
+Fondo negro: \033[0;40m
+Fondo rojo: \033[0;41m
+Fondo verde: \033[0;42m
+Fondo amarillo: \033[0;43m
