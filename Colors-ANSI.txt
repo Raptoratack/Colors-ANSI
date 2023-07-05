@@ -1,4 +1,4 @@
-lista de las secuencias de escape ANSI
+Lista de secuencias de escape ANSI
 
 Negro: \033[0;30m
 Rojo: \033[0;31m
