@@ -20,3 +20,17 @@ Fondo negro: \033[0;40m
 Fondo rojo: \033[0;41m
 Fondo verde: \033[0;42m
 Fondo amarillo: \033[0;43m
+
+Ejemplo:
+
+#!/bin/bash
+
+# Colores
+COLOR_ROJO='\033[0;31m'
+COLOR_VERDE='\033[0;32m'
+COLOR_AMARILLO='\033[0;33m'
+COLOR_RESET='\033[0m'
+
+echo -e "${COLOR_ROJO}Este es un texto en color rojo.${COLOR_RESET}"
+echo -e "${COLOR_VERDE}Este es un texto en color verde.${COLOR_RESET}"
+echo -e "${COLOR_AMARILLO}Este es un texto en color amarillo.${COLOR_RESET}"
